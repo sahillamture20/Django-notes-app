@@ -1,5 +1,6 @@
 # Simple Notes App
 This is a simple notes app built with React and Django.
+Using this project to learn Jenkins concepts.
 
 ## Requirements
 1. Python 3.9
